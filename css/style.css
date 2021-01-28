@@ -1,3 +1,29 @@
-h1 {
-  color: salmon;
+* {
+  color: rgb(54, 53, 53);
+  text-align: center;
+  background-color: rgb(224, 224, 224);
+}
+
+.photos {
+  display: flex;
+}
+
+.photo{
+  flex: 33%;
+  padding: 5px;
+}
+
+p {
+  text-align: center;
+  color: white;
+  font-size: larger;
+  position: relative;
+  top: -50%;
+  font-weight: bolder;
+  /*opacity: 0;*/
+}
+
+button {
+  border-radius: 2px;
+  background-color: white; 
 }
