@@ -1,3 +1,15 @@
-h1 {
-  color: salmon;
+.top {
+  align-items: center;
+}
+img {
+  width: 20%;
+  height: auto;
+  margin: 10px;
+}
+.page {
+  text-align: center;
+  margin: 40px;
+}
+.names {
+text-decoration: none;
 }
